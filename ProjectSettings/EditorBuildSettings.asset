@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/scene_start_menu.unity
+    guid: eade159fe91eb1848aeaa0383cf1f311
+  - enabled: 1
+    path: Assets/Scenes/scene_gameplay.unity
+    guid: 7345d3206916c4a4197237dd50992dda
+  - enabled: 1
+    path: Assets/Scenes/gameClear.unity
+    guid: 378b6dbffcb96bc4f9ce1b701e21e663
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: 43931e9da97af88409de8c2037b2505e
+  m_configObjects: {}
